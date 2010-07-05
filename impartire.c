@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int imparte(int a, int b){
+int impartire(int a, int b){
 	if(b == 0){
 		return 0;
 	}
